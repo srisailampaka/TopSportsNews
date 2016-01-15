@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TopSportNews</string>
+    <string name="dialog_message">Please check internet connection</string>
+    <string name="network_not_available_message">Message</string>
+    <string name="failure_to_load">Failed to load</string>
+    <string name="dialog_title">Message</string>
+
+
+</resources>
